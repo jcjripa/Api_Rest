@@ -1,0 +1,7 @@
+pom.xml
+build
+target
+WebContent
+.classpath
+.project
+.settings/
